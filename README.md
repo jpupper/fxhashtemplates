@@ -2,7 +2,6 @@
 This repository contains several templates for uploading generative artworks as NFTs on fxhash. These templates are based mainly on the way I create my generative art pieces.
 Fxhash is a site that allows uploading generative NFT art. Check it out: https://www.fxhash.xyz/
 The templates work in the same way as I do in my collection. You can see it here: https://www.fxhash.xyz/u/JPupper
-There are 6 templates:
 
 ## Babylon Template:
 This is the source code I've created for this artwork: https://www.fxhash.xyz/generative/13817. It is made using the Babylon.js graphics engine.
@@ -26,7 +25,6 @@ This is just an HTML file with NO library at all, it is all coded in WebGL for r
 Este repositorio contiene varias plantillas para subir obras generativas como NFTs en fxhash. Estas plantillas están basadas principalmente en la forma en que trabajo mis piezas de arte generativo.
 Fxhash es un sitio que permite subir arte generativo en formato NFT. Echa un vistazo: https://www.fxhash.xyz/
 Las plantillas funcionan de la misma manera que lo hago en mi colección. Puedes verla aquí: https://www.fxhash.xyz/u/JPupper
-Hay 6 plantillas:
 
 ## Plantilla Babylon:
 Este es el código fuente que he creado para esta obra de arte: https://www.fxhash.xyz/generative/13817. Está hecho utilizando el motor gráfico Babylon.js.
